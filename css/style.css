@@ -57,9 +57,10 @@ a {
     background-color: rgba(0, 0, 0, .5)
 }
 
-.title {
+.title, .clock-title {
     font-size: 36px;
-    font-weight: 400
+    font-weight: 400;
+    text-align: center;
 }
 
 .header {
